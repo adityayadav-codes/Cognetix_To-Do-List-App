@@ -9,12 +9,12 @@ public class Task {
         this.status = "Pending";
     }
 
-    public String getDescription(String description) {
+    public String getDescription() {
 
         return description;
     }
 
-    public String  getStatus(String status) {
+    public String  getStatus() {
 
         return status;
     }
